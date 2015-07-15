@@ -1,7 +1,5 @@
 Filler is a machine for filling areas (marked with [Land Marks](/Core/Land_Mark.md)) with blocks.
 
-### The GUI
-
 ![Filler GUI](/images/screenshots/fillergui.png)
 
 * [1] Mode - you can set this to a variety of different modes.

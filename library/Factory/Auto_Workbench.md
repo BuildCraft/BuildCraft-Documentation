@@ -4,8 +4,6 @@ In order for the automatic crafting mechanism to be activated, first assign the 
 
 The Auto Workbench does not require or accept any power, however [Redstone Engines](/Core/Redstone_Engine.md) can be used to speed up the process slightly.
 
-### The GUI
-
 ![The Auto Workbench GUI](/images/screenshots/autoworkbenchgui.png)
 
 * [1] Crafting grid - right-click to add items, left-click to remove. The items are not used up.

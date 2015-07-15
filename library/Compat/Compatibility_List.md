@@ -1,4 +1,4 @@
-### Compatibility list
+### Compatibility List
 
 (Last updated for BuildCraft Compat 7.0.9)
 

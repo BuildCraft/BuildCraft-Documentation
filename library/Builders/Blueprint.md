@@ -1,5 +1,4 @@
-Blueprints are used to copy in-world structures (with an [Architect Table](Architect_Table.md)), which can then later be used in other machines. Unlike Templates, they save the exact contents of a 
-structure.
+Blueprints are used to copy in-world structures (with an [Architect Table](/Builders/Architect_Table.md)), which can then later be used in other machines. Unlike Templates, they save the exact contents of a structure.
 
 ## Notes
 

@@ -1,0 +1,1 @@
+Fuel is the most efficient way to power machines in BuildCraft, providing 60 RF/t and lasting very long. It does not generate naturally in the world - it is a product of refining [Oil](/Energy/Oil.md) in a [Refinery](/Factory/Refinery.md). It can be used in the [Combustion Engine](/Energy/Combustion_Engine.md).

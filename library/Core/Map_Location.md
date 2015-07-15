@@ -1,4 +1,4 @@
-The Map Location is an item used to store locations, primarily used by the [Robots](/Robotics/Robots.md).
+The Map Location is an item used to store locations, primarily used by the [Robots](/Robotics/Robot.md).
 
 There are multiple ways to store a location:
 
