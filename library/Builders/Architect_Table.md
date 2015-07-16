@@ -4,8 +4,6 @@ The Architect Table lets you record buildings onto a [Blueprint](/Builders/Bluep
 
 The recording time differs depending on the size and complexity of the area being recorded.
 
-### GUI
-
 ![Architect Table GUI](/images/screenshots/architecttablegui.png)
 
 Note: You cannot change the options while recording a template.

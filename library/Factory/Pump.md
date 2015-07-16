@@ -4,6 +4,6 @@ The Pump auto-ejects extracted fluids to any adjacent fluid pipes or tiles which
 
 ![Pump pumping out water to Fluid Pipes](/images/screenshots/pump1.png)
 
-### Tips
+# Tips
 
 * The Pump, following Minecraft's mechanics, does not consume water when pumping it out.

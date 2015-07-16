@@ -1,4 +1,4 @@
-### Compatibility List
+# Compatibility List
 
 (Last updated for BuildCraft Compat 7.0.9)
 
@@ -21,7 +21,7 @@
 * WAILA - Robot tooltips
 * Witchery - crops
 
-### Notes
+## Notes
 
 * "crops" - special handling in Stripes Pipes and Robots
 * "pipe insertion" - laser tables, quarries, mining wells, etc. can output to pipes from a given mod

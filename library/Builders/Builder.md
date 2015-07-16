@@ -15,6 +15,6 @@ To build a Template, you can feed it arbitrary blocks - just like the [Filler](/
 
 ![Template constrction](/images/screenshots/builder2.png)
 
-### Tips and tricks
+# Tips and tricks
 
 * If you're using robots, the Builder provides a "Request Needed Items" action for Docking Stations. It will automatically request the items necessary to continue building, for instance for Delivery Robots.

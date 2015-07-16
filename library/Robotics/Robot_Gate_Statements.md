@@ -1,4 +1,4 @@
-### Actions
+# Actions
 
 * **Filter** - filters what items/fluids the linked robot can load/unload into its inventory.
 * **Filter Tool** - filters what items the linked robot can equip.
@@ -18,7 +18,7 @@ the specified items/fluids.
 * **Force Robot** - allows only robots of the specified types to dock on the docking station.
 * Both Forbid and Force Robot can use not only robot types themselves, but also wearables such as helmets.
 
-### Triggers
+# Triggers
 
 * **Robot In Station** - activates when there is at least one robot docked in a docking station.
 * **Station Linked** - activates when there is at least one docking station that is a main link.
